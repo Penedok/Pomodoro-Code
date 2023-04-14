@@ -1,11 +1,13 @@
 
 const disparador = document.querySelector('#disparador')
 
+
 disparador.addEventListener('click',()=>{
     console.log("disparador ativado")
     const segundoPomodoro =  4000 
+    
     setTimeout(() => {
-        console.log("O seu tempo acabou");
+     alert("O seu tempo de produção do promodoro acabou. Vá Descansar!");
       }, segundoPomodoro)
 
 
