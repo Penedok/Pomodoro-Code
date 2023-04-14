@@ -1,6 +1,14 @@
 
-const segundoPomodoro =  4000  //25*60*100
+const disparador = document.querySelector('#disparador')
 
-setTimeout(() => {
-    console.log("O seu tempo acabou");
-  }, segundoPomodoro);
+disparador.addEventListener('click',()=>{
+    console.log("disparador ativado")
+    const segundoPomodoro =  4000 
+    setTimeout(() => {
+        console.log("O seu tempo acabou");
+      }, segundoPomodoro)
+
+
+})
+
+
