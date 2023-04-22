@@ -6,8 +6,8 @@
 - [X] Criar o visual do ativador do cronometro
 - [X] Conectar o ativador do cronometro com a função de criar cronometro
 - [X] Disparar um aviso ao fim do cronometro
-- [x] Criar a lógica de contador de segundos
-- [ ] Calcular o tempo restante 
+- [X] Criar a lógica de contador de segundos
+- [X] Calcular o tempo restante no cronometro
 - [ ] Criar o componente na tela
 - [ ] Exibir visualmente  o tempo restante no componente do cronometro
 - [ ] Ter uma outra ativação do cronometro, com  5min, paara o intervalo
@@ -26,3 +26,4 @@
 - [ ] Salvar o status no localStorage para se a aba for encerrada
 - [ ] Extensão do navegador
 - [ ] Alterar o tema
+- [ ] Esconder o time
