@@ -1,5 +1,6 @@
 # Pomodoro-Code:
-<p> A técnica pomodoro costuma ser usada para quem precisa manter uma rotina de estudos ou produzir trabalhos criativos. Ele costuma ter 25 minutos de foco e 5 minutos para descanso de mente e corpo. Após cerca de quadro pomodoros, a pausa entre as atividades se torna mais longa, tendo entre 10 a 30minutos</p>
+<p> A técnica pomodoro costuma ser usada para quem precisa manter uma rotina de estudos ou produzir trabalhos criativos. Ele costuma ter 25 minutos de foco e 5 minutos para descanso de mente e corpo. Após cerca de quadro pomodoros, a pausa entre as atividades se torna mais longa, tendo entre 10 a 30minutos.Sendo assim o nosso projeto tem o objetivo de criar uma interface para o úsuario ter um cronometro com a funcinalidade de um pomodoro.
+</p>
 
 ### Tarefas:
 - [X] Criar um cronometro de 25minutos
